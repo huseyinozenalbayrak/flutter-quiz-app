@@ -8,12 +8,9 @@ This app lets users answer a series of Flutter-related questions, shows results 
 
 ## 📱 Screenshots
 
-| Start Screen                                                                                  | Question Screen                                                                                  | Result Screen                                                                                  |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| ![Start](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-10-19%20at%2013.00.57.png) | ![Question](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-10-19%20at%2013.01.06.png) | ![Result](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-10-19%20at%2013.01.18.png) |
-
-Additional flow and summary screen example:  
-![Summary](Screenshot%202025-10-19%20at%2013.02.19.png)
+| Start Screen                                                                                                      | Question Screen                                                                                                     | Result Screen                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![Start](https://github.com/huseyinozenalbayrak/flutter-quiz-app/blob/main/screenshots/start_screen.png?raw=true) | ![Question](https://github.com/huseyinozenalbayrak/flutter-quiz-app/blob/main/screenshots/quiz_screen.png?raw=true) | ![Result](https://github.com/huseyinozenalbayrak/flutter-quiz-app/blob/main/screenshots/results_screen.png?raw=true) |
 
 ---
 
@@ -48,6 +45,10 @@ lib/
  ├── questions_screen.dart
  ├── quiz.dart
  ├── results_screen.dart
+ ├── screenshots
+ │   ├── quiz_screen.png
+ │   ├── results_screen.png
+ │   └── start_screen.png
  └── start_screen.dart
 ```
 
