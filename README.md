@@ -19,7 +19,7 @@ This app lets users answer a series of Flutter-related questions, shows results 
 - Multiple-choice quiz with dynamic question flow
 - Live score tracking and result summary
 - Clean UI with gradient backgrounds
-- Fully responsive and runs on iOS, Android, and Web
+- Fully responsive and runs on iOS and Android
 - Demonstrates key Flutter concepts like:
   - `StatefulWidget` vs `StatelessWidget`
   - `setState()` and state updates
